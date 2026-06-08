@@ -14,7 +14,7 @@ interactive visualizations.
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Preview](dashboard.jpg)
+![Dashboard Preview](7e9e8f36-a43e-4dc6-806c-966e6887676f.jpeg)
 
 ------------------------------------------------------------------------
 
